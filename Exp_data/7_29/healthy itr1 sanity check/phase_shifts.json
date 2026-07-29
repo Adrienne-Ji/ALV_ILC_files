@@ -1,0 +1,9 @@
+{
+  "run": "healthy itr1 sanity check",
+  "saved_at": "2026-07-29T16:14:14",
+  "geom_shift_s": 2.6,
+  "pressure_shift_s": 3.0,
+  "total_pressure_s": 3.0,
+  "pv_fv_shift_s": 0.0,
+  "pv_vl_shift_s": 2.6
+}
