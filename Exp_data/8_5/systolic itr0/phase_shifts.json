@@ -1,0 +1,9 @@
+{
+  "run": "systolic itr0",
+  "saved_at": "2026-08-05T20:10:09",
+  "geom_shift_s": 1.8,
+  "pressure_shift_s": 1.9,
+  "total_pressure_s": 1.9,
+  "pv_fv_shift_s": 6.7,
+  "pv_vl_shift_s": 1.8
+}
