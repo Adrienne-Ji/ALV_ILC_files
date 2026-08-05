@@ -1,0 +1,9 @@
+{
+  "run": "diastolic itr3_1",
+  "saved_at": "2026-08-05T18:15:56",
+  "geom_shift_s": 2.2,
+  "pressure_shift_s": 2.8,
+  "total_pressure_s": 2.8,
+  "pv_fv_shift_s": 2.5,
+  "pv_vl_shift_s": 2.2
+}
