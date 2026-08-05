@@ -1,0 +1,9 @@
+{
+  "run": "healthy itr0",
+  "saved_at": "2026-08-05T16:10:25",
+  "geom_shift_s": 2.4,
+  "pressure_shift_s": 3.2,
+  "total_pressure_s": 3.2,
+  "pv_fv_shift_s": 1.2,
+  "pv_vl_shift_s": 2.4
+}
